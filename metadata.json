@@ -1,0 +1,7 @@
+{
+  "name": "Transito - Azure Cloud",
+  "description": "Next-gen booking platform for Karachi. Optimized for Azure Static Web Apps.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
